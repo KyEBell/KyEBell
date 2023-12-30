@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KyEBell
 - 👀 I’m interested in anything programming related, movies, running and reading!
-- 🌱 I’m currently learning new languages and frameworks. 
 - 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me: KyleEvanBell@gmail.com
 
